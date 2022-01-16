@@ -1,0 +1,7 @@
+packages: *.cabal
+
+source-repository-package
+  type: git
+  location: git@github.com:awkward-squad/ki.git
+  tag: 8641f38a0b45da550945ec3ac318e563bacc60c8
+  subdir: ki
